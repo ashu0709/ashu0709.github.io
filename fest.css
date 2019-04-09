@@ -1,0 +1,159 @@
+.ashu img{
+height: 210px;
+width: 210px;
+}
+h2{
+	position:absolute;
+}
+.hed{
+	color: rgb(255,255,255);
+	font-size: 40px;
+	font-family: 'Merienda', cursive;
+	margin-top: 5%;
+	margin-left: 35%;
+	text-shadow: 4px 4px 4px rgb(38, 38, 38);
+}
+
+#one {
+	top: 8%;
+	left: 34%
+}
+
+#two {
+	top: 18%;
+	left: 56%;
+}
+#three{
+	top: 28%;
+	left: 70%;
+}
+img
+{
+height:175;
+width:175;
+}
+
+.ashu{
+height:150px;
+width:10%;
+top: 7%;
+position: fixed;
+left:3%;
+}
+
+body{
+background:url("yes.jpeg");
+background-repeat: no-repeat;
+background-size:  100% 50%;
+background-attachment: fixed;
+background-color: rgb(0,0,0);
+}
+
+li {
+	font-size: 25px;
+}
+
+.lfloating{
+	background: rgb(255, 255, 230);
+	float: left;
+	position: fixed;
+	left: 1.5%;
+	top: 55%;
+	border: 1px solid rgb(200,200,200);
+	border-radius: 5px;
+	padding-left:1px;
+	padding-right:40px;
+	padding-bottom: 50px;
+}
+
+#cont{
+	padding-left:15%;
+	font-size: 40px;
+}
+
+h1{
+margin: 0;
+padding: 0;
+position: fixed;
+top: 45%;
+left:11%;
+transform:translate(-50%,-50%);
+color:white;
+font-family: 'Poppins', sans-serif;
+}
+
+h1:before{
+top:0;
+left:0;
+content:attr(data-text);
+position:absolute;
+transform-origin:bottom;
+transform: rotateX(180deg);
+line-height: 1;
+background: linear-gradient(0deg,white,transparent 75%);
+-webkit-background-clip: text;
+color: transparent;
+opacity: 0.9;
+}
+
+.aa{
+padding: 0.5em;
+box-shadow: 20px 20px 20px white;
+height :200;
+width:200;}
+
+
+.b{
+font-family: sans-serif;
+background: rgb(240,250,250);
+margin-left: 320px;
+margin-top: 220px;
+padding: 50px;
+border: 2px solid #6699ff;
+padding-bottom: 200px;
+}
+
+.photo img{
+height: 200;
+width:200;
+}
+.photo1 img{
+height: 200;
+width:200;
+}
+
+.photo{
+right:5%;
+height:100px;
+width:10%;
+top: 15%;
+position: fixed;
+}
+
+.photo1{
+right:5%;
+height:100px;
+width:10%;
+top: 50%;
+position: fixed;
+}
+
+b {
+font-family: 'Monda', sans-serif;
+}
+
+.icon{
+	width: 50px;
+	height: 50px;
+}
+
+
+#ash{
+	float: left;
+	overflow: auto;
+}
+
+#ut{
+	float: right;
+	overflow: auto;
+}
